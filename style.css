@@ -1,0 +1,27 @@
+h1{
+    font-size:70px; text-align:center;
+}
+h3{
+    font-size: 40px;
+}
+h4{
+    font-size:30px;
+}
+p{
+    font-size:20px;
+}
+li{
+    font-size:20px;
+}
+.NBA{
+    height:500px; width:875px;
+}
+td{
+    font-size:20px;
+}
+th{
+     font-size:20px;
+}
+.team{
+    height:500px; width:500px;
+}
